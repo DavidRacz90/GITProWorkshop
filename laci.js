@@ -1,6 +1,6 @@
-
-const cheers = (greeting) => {
-  console.log(greeting);
+const baseLanguage = 'Javascript';
+const cheers = () => {
+  console.log(baseLanguage);
 };
 
-cheers('Hello');
+cheers();
