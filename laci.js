@@ -1,6 +1,5 @@
-const greeter = (print) => {
-  console.log(print);
+const greeter = (param1, param2) => {
+  console.log(param1, param2);
 };
 
-cheers("Hello");
-cheers("jupppíííí");
+cheers("Hello", "Fox");
