@@ -1,7 +1,7 @@
 const myAge = 28;
 
 const count = () => {
-  console.log(myAge);
+  console.log('july');
 }
 
 count();
