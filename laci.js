@@ -2,4 +2,4 @@ const greeter = (print) => {
   console.log(print);
 };
 
-cheers("Hello-bello");
+cheers("jupppíííí");
