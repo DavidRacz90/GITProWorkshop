@@ -1,7 +1,7 @@
 const myAge = 28;
 
-const count = () => {
-  console.log('july');
+const count = (param) => {
+  console.log('Counting the countless ${param}');
 }
 
-count();
+count("countless");
