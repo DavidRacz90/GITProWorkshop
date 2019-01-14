@@ -1,3 +1,3 @@
-let greet = () => {
-  console.log('Anna');
+let greet = (name) => {
+  console.log(name);
 }
