@@ -1,8 +1,10 @@
-const greeter = (print) => {
-  console.log(print);
+const friend = "my friend"
+
+const greeter = () => {
+  console.log(`Greetings ${friend}`);
 };
 
-cheers("Greetings");
+cheers();
 
 console.log('Szia');
 console.log('szia');
