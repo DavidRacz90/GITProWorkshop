@@ -3,3 +3,5 @@ const greeter = (print) => {
 };
 
 cheers("Greetings");
+
+console.log('Szia');
