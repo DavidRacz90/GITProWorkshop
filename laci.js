@@ -2,5 +2,5 @@ const greeter = (print) => {
   console.log(print);
 };
 
-cheers("Hello");
-cheers("jupppíííí");
+greeter(`Cheer for the ${print}`);
+greeter("jupppíííí");
