@@ -3,3 +3,4 @@ const greeter = (print) => {
 };
 
 cheers("Hello");
+cheers("jupppíííí");
