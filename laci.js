@@ -1,4 +1,4 @@
-const cheers = (print) => {
+const greeter = (print) => {
   console.log(print);
 };
 
